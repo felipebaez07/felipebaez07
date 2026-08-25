@@ -12,7 +12,7 @@
 
 ### 👀 Sobre mí
 
-- 🧑‍💻 Estudiante de **Ingeniería de Sistemas** (7.º semestre) en la Universidad de Ibagué
+- 🧑‍💻 Estudiante de **Ingeniería de Sistemas** (8.º semestre) en la Universidad de Ibagué
 - 🚀 Autor y desarrollador de **[Raven](https://github.com/felipebaez07/domicilios-app)**, plataforma de gestión y rastreo de domicilios en producción
 - 🤖 Interesado en **inteligencia artificial**: agentes conversacionales, modelos de lenguaje locales (Ollama) y deep learning
 - 🌱 Actualmente aprendiendo **React, Next.js y TypeScript** (SSR, SSG, autenticación, Redux Toolkit)
