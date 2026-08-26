@@ -13,10 +13,11 @@
 ### 👀 Sobre mí
 
 - 🧑‍💻 Estudiante de **Ingeniería de Sistemas** (8.º semestre) en la Universidad de Ibagué
+- ⚖️ Desarrollador freelance del **landing page de Baez Tobar Abogados**, construido con TypeScript
+- 💇‍♀️ Desarrollador freelance del sitio web y sistema de reservas del **Centro de Estilistas Capelli**
 - 🚀 Autor y desarrollador de **[Raven](https://github.com/felipebaez07/domicilios-app)**, plataforma de gestión y rastreo de domicilios en producción
 - 🤖 Interesado en **inteligencia artificial**: agentes conversacionales, modelos de lenguaje locales (Ollama) y deep learning
 - 🌱 Actualmente aprendiendo **React, Next.js y TypeScript** (SSR, SSG, autenticación, Redux Toolkit)
-- 💼 Desarrollador freelance del sitio web y sistema de reservas del Centro de Estilistas Capelli
 - 📫 Contáctame: **felipebaez7tobar@gmail.com**
 
 ---
@@ -53,6 +54,18 @@
 <table>
   <tr>
     <td width="50%">
+      <h4>⚖️ <a href="https://github.com/felipebaez07/landingpageBAEZASO">Baez Tobar Abogados</a></h4>
+      Landing page para firma de abogados, freelance.
+      <br/><b>Stack:</b> TypeScript
+    </td>
+    <td width="50%">
+      <h4>💇‍♀️ Centro de Estilistas Capelli</h4>
+      Sitio web y sistema de reservas, freelance, en producción.
+      <br/><b>Stack:</b> Full-stack
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h4>📦 <a href="https://github.com/felipebaez07/domicilios-app">Raven</a></h4>
       Plataforma full-stack para la gestión y el rastreo de domicilios en Ibagué. Desplegada en producción.
       <br/><b>Stack:</b> JavaScript · Node.js · CSS
@@ -61,18 +74,6 @@
       <h4>🧠 <a href="https://github.com/felipebaez07/deepl-clone">Agente Inteligente de Estudio</a></h4>
       Chatbot con arquitectura mono-agente y multi-agente sobre modelos de lenguaje locales.
       <br/><b>Stack:</b> Python · Ollama
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🎗️ <a href="https://github.com/felipebaez07/breast-cancer-ai-detection">Breast Cancer AI Detection</a></h4>
-      Modelo de deep learning para apoyo en la detección de cáncer de mama.
-      <br/><b>Stack:</b> Python · PyTorch
-    </td>
-    <td width="50%">
-      <h4>🏨 <a href="https://github.com/felipebaez07/hotel-inventory">Hotel Inventory</a></h4>
-      Sistema de gestión de inventario hotelero, full-stack.
-      <br/><b>Stack:</b> Vue.js · JavaScript
     </td>
   </tr>
 </table>
